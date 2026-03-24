@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mcpvpslo.falixsrv.me",
-    "port": 23523,
-    "version": "1.21.1"
+    "ip": "mafiastealz.aternos.me",
+    "port": 44585,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
